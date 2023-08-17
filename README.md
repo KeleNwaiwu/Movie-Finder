@@ -2,9 +2,9 @@ Absolutely, I can use the information you provided to generate a README for your
 
 ---
 
-# Movie Search App
+# Movie Finder App
 
-Welcome to the Movie Search App! This React-based web application allows you to easily search for a vast majority of movies using the Open Movie Database API (OMDb API).
+Welcome to the Movie Finder App! This React-based web application allows you to easily search for a vast majority of movies using the Open Movie Database API (OMDb API).
 
 ## Installation
 
