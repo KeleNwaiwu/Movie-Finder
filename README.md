@@ -1,6 +1,4 @@
-Absolutely, I can use the information you provided to generate a README for your React app. Here's a draft for your README file:
 
----
 
 # Movie Finder App
 
@@ -54,8 +52,7 @@ To set up and run this project locally, follow these steps:
 ## Demo Video
 
 Check out this short demo video showcasing the key features of Movie Finder:
-
-[![Movie-Finder Demo]("C:\Users\kelen\Downloads\demo.jpg")]([https://www.youtube.com/watch?v=your-video-id-here](https://www.youtube.com/watch?v=2K9FwXgzatY))
+## https://www.youtube.com/watch?v=2K9FwXgzatY
 
 ## Contributing
 
