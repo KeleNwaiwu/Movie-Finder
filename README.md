@@ -53,9 +53,9 @@ To set up and run this project locally, follow these steps:
 - See detailed information about each movie.
 ## Demo Video
 
-Check out this short demo video showcasing the key features of MovieSearcher:
+Check out this short demo video showcasing the key features of Movie Finder:
 
-[![Movie-Finder Demo](https://img.youtube.com/vi/your-video-id-here/0.jpg)]([https://www.youtube.com/watch?v=your-video-id-here](https://www.youtube.com/watch?v=2K9FwXgzatY))
+[![Movie-Finder Demo]("C:\Users\kelen\Downloads\demo.jpg")]([https://www.youtube.com/watch?v=your-video-id-here](https://www.youtube.com/watch?v=2K9FwXgzatY))
 
 ## Contributing
 
